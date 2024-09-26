@@ -1,6 +1,6 @@
 # Hi there, I'm Maheswari 👋
 
-🚀 Full-stack Developer | MERN Stack Enthusiast | Eco-friendly Solutions Advocate
+🚀 Full-stack Developer | MERN Stack Enthusiast | Learner
 
 ### 🌱 What I do:
 - Building scalable and sustainable web applications
