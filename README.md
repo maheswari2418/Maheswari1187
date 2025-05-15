@@ -19,7 +19,16 @@
 ### 🛠 Notable Projects:
 - [**Bus Ticket Booking Application**](#): A MERN stack-based bus ticket booking platform with user authentication and Redux for state management.
 - [**EcoSmart eCommerce Application**](#): An eco-friendly shopping platform featuring real-time product data, a shopping cart, and secure payment functionality.
-- 
+
+- ### 👋 Hi there, I'm Maheswari!
+
+<!-- GitHub Stats Card -->
+![Maheswari's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheswari2418&show_icons=true&theme=radical)
+
+<!-- Most Used Languages Card -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maheswari2418&layout=compact&theme=radical)
+
+
 
 ### 📫 Let's Connect:
 - **Email**: maheswari0669@gmail.com
